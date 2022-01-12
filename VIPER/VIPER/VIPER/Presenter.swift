@@ -12,6 +12,10 @@
 
 import Foundation
 
+enum FetchError: Error {
+    case failed
+}
+
 protocol AnyPresenter {
     var router: AnyRouter? {get set}
     var interactor: AnyInteractor? {get set}
