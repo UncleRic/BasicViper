@@ -1,0 +1,1222 @@
+{
+  "status" : "OK",
+  "results" : [
+    {
+      "adx_keywords" : "Voting Rights, Registration and Requirements;Voting Rights Act (1965);Filibusters and Debate Curbs;Redistricting and Reapportionment;United States Politics and Government;Black People;Discrimination;Federal-State Relations (US);Law and Legislation;Biden, Joseph R Jr;Harris, Kamala D;Senate;Democratic Party",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "In Georgia, President Biden, who had long been leery of whittling away at the filibuster, said such Senate traditions had been abused by Republicans.",
+      "title" : "‘We have no option’: Biden calls for changing Senate rules to pass voting rights laws.",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/us\/politics\/biden-filibuster-voting-rights.html",
+      "eta_id" : 0,
+      "nytdsection" : "u.s.",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11dc-biden-4\/11dc-biden-4-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11dc-biden-4\/merlin_200217636_e4ad39e1-ac98-4ff9-a566-4fd26f9fdc62-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11dc-biden-4\/merlin_200217636_e4ad39e1-ac98-4ff9-a566-4fd26f9fdc62-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Doug Mills\/The New York Times",
+          "caption" : "Mr. Biden did not go so far as to call for full-scale elimination of the filibuster, but said he supported an exception in the case of voting rights legislation.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 09:09:28",
+      "uri" : "nyt:\/\/article\/8e22bd8b-eaaf-5f38-a29f-9315e0749266",
+      "type" : "Article",
+      "org_facet" : [
+        "Senate",
+        "Democratic Party"
+      ],
+      "per_facet" : [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D"
+      ],
+      "id" : 100000008153873,
+      "asset_id" : 100000008153873,
+      "subsection" : "Politics",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Katie Rogers",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Voting Rights, Registration and Requirements",
+        "Voting Rights Act (1965)",
+        "Filibusters and Debate Curbs",
+        "Redistricting and Reapportionment",
+        "United States Politics and Government",
+        "Black People",
+        "Discrimination",
+        "Federal-State Relations (US)",
+        "Law and Legislation"
+      ],
+      "section" : "U.S."
+    },
+    {
+      "adx_keywords" : "Coronavirus (2019-nCoV);Tests (Medical);Tennis;Visas;Djokovic, Novak;Australia;Belgrade (Serbia)",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The tennis star also said he had participated in an interview and a photo shoot even after testing positive for the coronavirus, in an apparent violation of rules in his native Serbia.",
+      "title" : "Djokovic Admits False Statement on Australia Travel Document",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/world\/asia\/novak-djokovic-covid-statement.html",
+      "eta_id" : 0,
+      "nytdsection" : "world",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12oz-djokovic1\/merlin_200226144_035ccbb7-55f6-49ea-8e4e-3525a95a2f1f-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12oz-djokovic1\/merlin_200226144_035ccbb7-55f6-49ea-8e4e-3525a95a2f1f-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12oz-djokovic1\/merlin_200226144_035ccbb7-55f6-49ea-8e4e-3525a95a2f1f-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Darrian Traynor\/Getty Images",
+          "caption" : "In a statement Wednesday, Novak Djokovic laid out what he said was the series of events before he received a positive coronavirus test.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 22:53:06",
+      "uri" : "nyt:\/\/article\/17bd26c5-605b-54fa-912b-851972c4bf12",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+        "Djokovic, Novak"
+      ],
+      "id" : 100000008156043,
+      "asset_id" : 100000008156043,
+      "subsection" : "Asia Pacific",
+      "geo_facet" : [
+        "Australia",
+        "Belgrade (Serbia)"
+      ],
+      "byline" : "By Yan Zhuang",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Coronavirus (2019-nCoV)",
+        "Tests (Medical)",
+        "Tennis",
+        "Visas"
+      ],
+      "section" : "World"
+    },
+    {
+      "adx_keywords" : "Quarantine (Life and Culture);Sleep;Content Type: Service;Melatonin (Hormone);Dreams;Insomnia;Psychology and Psychologists;Anxiety and Stress;Sedatives;Drugs (Pharmaceuticals);Jet Lag",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The “vampire hormone” can act like a dose of sunset, tricking your body into feeling like it’s time to sleep.",
+      "title" : "Melatonin Isn’t a Sleeping Pill. Here’s How to Use It.",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/well\/mind\/melatonin-sleep-insomnia.html",
+      "eta_id" : 0,
+      "nytdsection" : "well",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/18\/well\/21Well-Melatonin\/21Well-Melatonin-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/18\/well\/21Well-Melatonin\/21Well-Melatonin-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/18\/well\/21Well-Melatonin\/21Well-Melatonin-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Dadu Shin",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 19:52:19",
+      "uri" : "nyt:\/\/article\/ea6213a7-ccfa-51e1-9b11-c5a25c76b469",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008077241,
+      "asset_id" : 100000008077241,
+      "subsection" : "Mind",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Amelia Nierenberg",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Quarantine (Life and Culture)",
+        "Sleep",
+        "Content Type: Service",
+        "Melatonin (Hormone)",
+        "Dreams",
+        "Insomnia",
+        "Psychology and Psychologists",
+        "Anxiety and Stress",
+        "Sedatives",
+        "Drugs (Pharmaceuticals)",
+        "Jet Lag"
+      ],
+      "section" : "Well"
+    },
+    {
+      "adx_keywords" : "Consumer Price Index;Inflation (Economics);United States Economy;Supply Chain;Prices (Fares, Fees and Rates);Shortages;Powell, Jerome H;Federal Reserve System",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The Consumer Price Index increased at the fastest pace in 40 years, a new report showed.",
+      "title" : "Consumer prices popped again in December, casting a shadow over the economy.",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/business\/economy\/cpi-inflation-december-2021.html",
+      "eta_id" : 0,
+      "nytdsection" : "business",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12dc-inflation-sub\/12dc-inflation-sub-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12dc-inflation-sub\/merlin_198984804_38a93b93-4243-4cb7-b6f0-1987e5e02bef-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/world\/12dc-inflation-sub\/merlin_198984804_38a93b93-4243-4cb7-b6f0-1987e5e02bef-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "George Etheredge for The New York Times",
+          "caption" : "Policymakers have spent months waiting for inflation to fade, hoping that supply chain snags would ease to meet booming consumer demand.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 08:43:05",
+      "uri" : "nyt:\/\/article\/2e51f379-716f-5ead-9491-89f6466e842f",
+      "type" : "Article",
+      "org_facet" : [
+        "Federal Reserve System"
+      ],
+      "per_facet" : [
+        "Powell, Jerome H"
+      ],
+      "id" : 100000008155374,
+      "asset_id" : 100000008155374,
+      "subsection" : "Economy",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Jeanna Smialek and Ana Swanson",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Consumer Price Index",
+        "Inflation (Economics)",
+        "United States Economy",
+        "Supply Chain",
+        "Prices (Fares, Fees and Rates)",
+        "Shortages"
+      ],
+      "section" : "Business"
+    },
+    {
+      "adx_keywords" : "Black People;Women and Girls;Numismatics;US Dollar (Currency);Currency;Poetry and Poets;Angelou, Maya;United States Mint",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The coins featuring the writer and poet, which began shipping this week, are the first in a series that will commemorate female pioneers in a variety of fields.",
+      "title" : "Maya Angelou Becomes First Black Woman on a Quarter",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/us\/maya-angelou-quarter.html",
+      "eta_id" : 0,
+      "nytdsection" : "u.s.",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11xp-maya-coin-2\/11xp-maya-coin-2-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11xp-maya-coin-2\/11xp-maya-coin-2-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11xp-maya-coin-2\/11xp-maya-coin-2-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "The Department Of Treasury\/Agence France-Presse, via Getty Images",
+          "caption" : "The new quarter featuring the likeness of the writer Maya Angelou.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 09:01:30",
+      "uri" : "nyt:\/\/article\/9c68de54-1f52-5e92-9b28-67c728a34429",
+      "type" : "Article",
+      "org_facet" : [
+        "United States Mint"
+      ],
+      "per_facet" : [
+        "Angelou, Maya"
+      ],
+      "id" : 100000008154633,
+      "asset_id" : 100000008154633,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Livia Albeck-Ripka",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Black People",
+        "Women and Girls",
+        "Numismatics",
+        "US Dollar (Currency)",
+        "Currency",
+        "Poetry and Poets"
+      ],
+      "section" : "U.S."
+    },
+    {
+      "adx_keywords" : "Sex;Elderly;Baby Boomers;Dating and Relationships;Dementia;O'Connor, Sandra Day",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "Sex can drop off in our final decades. But for those who keep going, it can be the best of their lives.",
+      "title" : "The Joys (and Challenges) of Sex After 70",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/magazine\/sex-old-age.html",
+      "eta_id" : 0,
+      "nytdsection" : "magazine",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-sex-02\/16mag-sex-02-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-sex-02\/16mag-sex-02-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-sex-02\/16mag-sex-02-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Marilyn Minter for The New York Times",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 10:50:38",
+      "uri" : "nyt:\/\/article\/c1e77fef-12c0-5bbc-bef1-6022dd1945fe",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+        "O'Connor, Sandra Day"
+      ],
+      "id" : 100000008149697,
+      "asset_id" : 100000008149697,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Maggie Jones",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Sex",
+        "Elderly",
+        "Baby Boomers",
+        "Dating and Relationships",
+        "Dementia"
+      ],
+      "section" : "Magazine"
+    },
+    {
+      "adx_keywords" : "Presidential Elections (US);Commission on Presidential Debates;Republican National Committee;Republican Party",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The Republican National Committee says it will require candidates to pledge to not participate in debates run by the Commission on Presidential Debates. What would replace them, if anything, was unclear.",
+      "title" : "R.N.C. Signals a Pullout From Presidential Debates",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/13\/us\/politics\/presidential-debates-rnc.html",
+      "eta_id" : 0,
+      "nytdsection" : "u.s.",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/us\/politics\/13debate\/13debate-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/us\/politics\/13debate\/merlin_178920654_ccffa747-acdd-4290-9fc1-20d7807e0b98-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/us\/politics\/13debate\/merlin_178920654_ccffa747-acdd-4290-9fc1-20d7807e0b98-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Erin Schaff\/The New York Times",
+          "caption" : "The intensity of Republican frustration with the debate commission has increased since former President Donald J. Trump first became the Republican nominee in 2016. ",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 14:13:57",
+      "uri" : "nyt:\/\/article\/8ac075f7-bdc6-5cb7-a9b4-d026ebefc03e",
+      "type" : "Article",
+      "org_facet" : [
+        "Commission on Presidential Debates",
+        "Republican National Committee",
+        "Republican Party"
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008157110,
+      "asset_id" : 100000008157110,
+      "subsection" : "Politics",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Maggie Haberman",
+      "published_date" : "2022-01-13",
+      "des_facet" : [
+        "Presidential Elections (US)"
+      ],
+      "section" : "U.S."
+    },
+    {
+      "adx_keywords" : "Parenting;Vaccination and Immunization;Coronavirus Omicron Variant;Paid Time Off;Child Care;Anxiety and Stress;internal-sub-only-nl",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "Disrupted day care, vaccine ineligibility and bosses who are over Covid excuses.",
+      "title" : "I See Signs of Despair From Parents of Kids Under 5",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/opinion\/parents-school-omicron.html",
+      "eta_id" : 0,
+      "nytdsection" : "opinion",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/opinion\/12Grose-image\/12Grose-image-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/opinion\/12Grose-image\/12Grose-image-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/opinion\/12Grose-image\/12Grose-image-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Eleanor Davis",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 10:41:52",
+      "uri" : "nyt:\/\/article\/bc46fb78-f30e-57da-af5a-fad79229ccbe",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008156579,
+      "asset_id" : 100000008156579,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Jessica Grose",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Parenting",
+        "Vaccination and Immunization",
+        "Coronavirus Omicron Variant",
+        "Paid Time Off",
+        "Child Care",
+        "Anxiety and Stress",
+        "internal-sub-only-nl"
+      ],
+      "section" : "Opinion"
+    },
+    {
+      "adx_keywords" : "Coronavirus Omicron Variant;Contact Tracing (Public Health);Coronavirus (2019-nCoV);Olympic Games (2022);Quarantines;Athletics and Sports;Travel Warnings",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country.",
+      "title" : "Omicron Deepens Uncertainty Surrounding Beijing Olympics",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/world\/asia\/beijing-olympics-covid.html",
+      "eta_id" : 0,
+      "nytdsection" : "world",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/world\/00virus-olympics-china-01\/00virus-olympics-china-01-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/world\/00virus-olympics-china-01\/00virus-olympics-china-01-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/world\/00virus-olympics-china-01\/00virus-olympics-china-01-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Thomas Peter\/Reuters",
+          "caption" : "Winter Olympics participants will be kept inside a “closed-loop” bubble. But a surge in infections in China even before their arrival points to the challenge Chinese organizers face in the era of Omicron.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 23:17:31",
+      "uri" : "nyt:\/\/article\/98fc76c6-9091-5767-9b57-5b16902593c1",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008154947,
+      "asset_id" : 100000008154947,
+      "subsection" : "Asia Pacific",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Amy Qin and Keith Bradsher",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Coronavirus Omicron Variant",
+        "Contact Tracing (Public Health)",
+        "Coronavirus (2019-nCoV)",
+        "Olympic Games (2022)",
+        "Quarantines",
+        "Athletics and Sports",
+        "Travel Warnings"
+      ],
+      "section" : "World"
+    },
+    {
+      "adx_keywords" : "Social Media;Theater;Harris, Jeremy O;Puth, Charlie (1991- );Juilliard School;Atlanta (Ga);East Village (Manhattan, NY)",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The 22-year-old actor documented his audition process for the world to see and became a star along the way.",
+      "title" : "When Axel Webber Was Rejected From Juilliard, the Internet Stepped In",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/style\/tiktok-axel-webber-juilliard-nyc.html",
+      "eta_id" : 0,
+      "nytdsection" : "style",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/fashion\/11AXEL-JUILLIARD1\/11AXEL-JUILLIARD1-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/fashion\/11AXEL-JUILLIARD1\/11AXEL-JUILLIARD1-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/13\/fashion\/11AXEL-JUILLIARD1\/11AXEL-JUILLIARD1-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "via YouTube",
+          "caption" : "Axel Webber first went viral when he posted a video about living in a small apartment in Manhattan in December.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 23:23:25",
+      "uri" : "nyt:\/\/article\/c2beef98-d653-5a38-b74f-c6419006d488",
+      "type" : "Article",
+      "org_facet" : [
+        "Juilliard School"
+      ],
+      "per_facet" : [
+        "Harris, Jeremy O",
+        "Puth, Charlie (1991- )"
+      ],
+      "id" : 100000008154712,
+      "asset_id" : 100000008154712,
+      "subsection" : "",
+      "geo_facet" : [
+        "Atlanta (Ga)",
+        "East Village (Manhattan, NY)"
+      ],
+      "byline" : "By Taylor Lorenz",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Social Media",
+        "Theater"
+      ],
+      "section" : "Style"
+    },
+    {
+      "adx_keywords" : "Real Estate and Housing (Residential);Renting and Leasing (Real Estate);Consumer Price Index;Inflation (Economics);Prices (Fares, Fees and Rates)",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "Rent costs, a key component of inflation, surged 0.4 percent in December, putting pressure on the Federal Reserve to tamp down rising prices.",
+      "title" : "Housing costs swell, hampering home buyers and pushing up rents.",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/business\/housing-rent-inflation.html",
+      "eta_id" : 0,
+      "nytdsection" : "business",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/multimedia\/12econ-brf-housing\/12econ-brf-housing-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/multimedia\/12econ-brf-housing\/12econ-brf-housing-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/multimedia\/12econ-brf-housing\/12econ-brf-housing-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Gene J. Puskar\/Associated Press",
+          "caption" : "Many would-be home buyers found themselves on the sidelines as housing prices rose steeply during the pandemic. ",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 13:35:12",
+      "uri" : "nyt:\/\/article\/ebd8a50b-56cb-55c4-ad80-8f8a03608ffd",
+      "type" : "Article",
+      "org_facet" : [
+e
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008156374,
+      "asset_id" : 100000008156374,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Sydney Ember",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Real Estate and Housing (Residential)",
+        "Renting and Leasing (Real Estate)",
+        "Consumer Price Index",
+        "Inflation (Economics)",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "section" : "Business"
+    },
+    {
+      "adx_keywords" : "Transplants;Heart;Pigs;Kidneys;Genetic Engineering;Cloning;your-feed-science;University of Maryland Medical Center",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The breakthrough may lead one day to new supplies of animal organs for transplant into human patients.",
+      "title" : "In a First, Man Receives a Heart From a Genetically Altered Pig",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/10\/health\/heart-transplant-pig-bennett.html",
+      "eta_id" : 0,
+      "nytdsection" : "health",
+      "media" : [
+
+      ],
+      "updated" : "2022-01-11 10:49:44",
+      "uri" : "nyt:\/\/article\/9b5ce161-0850-5592-918d-c25496a08afe",
+      "type" : "Article",
+      "org_facet" : [
+        "University of Maryland Medical Center"
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008152930,
+      "asset_id" : 100000008152930,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Roni Caryn Rabin",
+      "published_date" : "2022-01-10",
+      "des_facet" : [
+        "Transplants",
+        "Heart",
+        "Pigs",
+        "Kidneys",
+        "Genetic Engineering",
+        "Cloning",
+        "your-feed-science"
+      ],
+      "section" : "Health"
+    },
+    {
+      "adx_keywords" : "Exercise;Menopause;Women and Girls;Weight;Diet and Nutrition;Content Type: Service",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "And is there any way to target it through diet or exercise?",
+      "title" : "Why Do Women Gain Belly Fat in Midlife?",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/well\/move\/belly-fat-women.html",
+      "eta_id" : 0,
+      "nytdsection" : "well",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/well\/11askwell-bellyfat-promo\/11askwell-bellyfat-promo-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/well\/11askwell-bellyfat-promo\/11askwell-bellyfat-promo-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/well\/11askwell-bellyfat-promo\/11askwell-bellyfat-promo-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Aileen Son for The New York Times",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 03:30:54",
+      "uri" : "nyt:\/\/article\/23b8ae74-a0d1-5f09-b503-15255ab559a0",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008119174,
+      "asset_id" : 100000008119174,
+      "subsection" : "Move",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Alice Callahan",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Exercise",
+        "Menopause",
+        "Women and Girls",
+        "Weight",
+        "Diet and Nutrition",
+        "Content Type: Service"
+      ],
+      "section" : "Well"
+    },
+    {
+      "adx_keywords" : "Appointments and Executive Changes;Conflicts of Interest;Nepotism;Adams, Eric L;Adams, Bernard;Conflicts of Interest Board (NYC);Police Department (NYC);New York City",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "Amid concerns of nepotism, Bernard Adams will be executive director of mayoral security, not deputy police commissioner. He will earn $210,000.",
+      "title" : "Eric Adams Cuts His Brother’s Duties After Giving Him Top Police Job",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/nyregion\/bernard-adams-brother-mayor.html",
+      "eta_id" : 0,
+      "nytdsection" : "new york",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/nyregion\/12adams-brother\/12adams-brother-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/nyregion\/12adams-brother\/merlin_189736599_34b011e5-04b6-4a14-aaf0-f4e347e0eb69-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/nyregion\/12adams-brother\/merlin_189736599_34b011e5-04b6-4a14-aaf0-f4e347e0eb69-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "James Estrin\/The New York Times",
+          "caption" : "Bernard Adams, the brother of Mayor Eric Adams, at a primary night gathering in June.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-13 11:36:15",
+      "uri" : "nyt:\/\/article\/e4921830-6296-5285-8d6c-0196cf7a0e98",
+      "type" : "Article",
+      "org_facet" : [
+        "Conflicts of Interest Board (NYC)",
+        "Police Department (NYC)"
+      ],
+      "per_facet" : [
+        "Adams, Eric L",
+        "Adams, Bernard"
+      ],
+      "id" : 100000008154976,
+      "asset_id" : 100000008154976,
+      "subsection" : "",
+      "geo_facet" : [
+        "New York City"
+      ],
+      "byline" : "By Dana Rubinstein and William K. Rashbaum",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Appointments and Executive Changes",
+        "Conflicts of Interest",
+        "Nepotism"
+      ],
+      "section" : "New York"
+    },
+    {
+      "adx_keywords" : "Kidneys;Organ Donation;Parenting;Ethics (Personal);Bullies",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The magazine’s Ethicist columnist on what you owe to a sibling who didn’t treat you right and how to handle a potential bullying situation at your child’s school.",
+      "title" : "Must I Donate a Kidney to My Awful Brother?",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/magazine\/kidney-donation-ethics.html",
+      "eta_id" : 0,
+      "nytdsection" : "magazine",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-ethicist\/16mag-ethicist-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-ethicist\/16mag-ethicist-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/16\/magazine\/16mag-ethicist\/16mag-ethicist-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Illustration by Tomi Um",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-11 05:00:11",
+      "uri" : "nyt:\/\/article\/2c575c45-8396-506a-8a51-4e36e18b80f1",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008149108,
+      "asset_id" : 100000008149108,
+      "subsection" : "",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Kwame Anthony Appiah",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Kidneys",
+        "Organ Donation",
+        "Parenting",
+        "Ethics (Personal)",
+        "Bullies"
+      ],
+      "section" : "Magazine"
+    },
+    {
+      "adx_keywords" : "Tests (Medical);Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Abbott Laboratories;San Francisco (Calif)",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The Abbott BinaxNOW, a rapid antigen test, identified 95 percent of people carrying high levels of the virus, researchers found.",
+      "title" : "A popular at-home test detects most infectious Omicron cases, a study suggests.",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/health\/abbott-binaxnow-at-home-covid-test.html",
+      "eta_id" : 0,
+      "nytdsection" : "health",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11virus-briefing-testing-study\/11virus-briefing-testing-study-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11virus-briefing-testing-study\/11virus-briefing-testing-study-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/multimedia\/11virus-briefing-testing-study\/11virus-briefing-testing-study-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Patrick T. Fallon\/Agence France-Presse — Getty Images",
+          "caption" : "Americans have struggled to get tested amid the Omicron wave.",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 07:57:18",
+      "uri" : "nyt:\/\/article\/06b82f9c-c1cf-55ae-b88b-d0118adf62c8",
+      "type" : "Article",
+      "org_facet" : [
+        "Abbott Laboratories"
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008154920,
+      "asset_id" : 100000008154920,
+      "subsection" : "",
+      "geo_facet" : [
+        "San Francisco (Calif)"
+      ],
+      "byline" : "By Emily Anthes",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Tests (Medical)",
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "section" : "Health"
+    },
+    {
+      "adx_keywords" : "Baseball;Women and Girls;Content Type: Personal Profile;Beacom, Genevieve;Australian Baseball League;Australia",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "At 17, Genevieve Beacom became the first woman to play for one of Australia’s top professional baseball teams. She hopes her next stop is college ball in the United States.",
+      "title" : "‘Genevieve Is Pitching Because She Can Get Outs’",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/12\/sports\/baseball\/genevieve-beacom-australia.html",
+      "eta_id" : 0,
+      "nytdsection" : "sports",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/sports\/12baseball-beacom1\/12baseball-beacom1-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/sports\/12baseball-beacom1\/12baseball-beacom1-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/12\/sports\/12baseball-beacom1\/12baseball-beacom1-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Alana Holmberg for The New York Times",
+          "caption" : "",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 23:13:47",
+      "uri" : "nyt:\/\/article\/fdb3faaa-ca62-5256-a275-51d128020e96",
+      "type" : "Article",
+      "org_facet" : [
+        "Australian Baseball League"
+      ],
+      "per_facet" : [
+        "Beacom, Genevieve"
+      ],
+      "id" : 100000008152586,
+      "asset_id" : 100000008152586,
+      "subsection" : "Baseball",
+      "geo_facet" : [
+        "Australia"
+      ],
+      "byline" : "By David Waldstein",
+      "published_date" : "2022-01-12",
+      "des_facet" : [
+        "Baseball",
+        "Women and Girls",
+        "Content Type: Personal Profile"
+      ],
+      "section" : "Sports"
+    },
+    {
+      "adx_keywords" : "Coronavirus Omicron Variant;Disease Rates;Coronavirus (2019-nCoV);Hospitals;audio-neutral-informative",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "Despite its reputation for mild illness, the Omicron variant is fueling a staggering rise in hospitalizations. Here’s what doctors are seeing.",
+      "title" : "This Covid Surge Feels Different",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/podcasts\/the-daily\/omicron-surge-hospitals.html",
+      "eta_id" : 0,
+      "nytdsection" : "podcasts",
+      "media" : [
+
+      ],
+      "updated" : "2022-01-11 14:43:55",
+      "uri" : "nyt:\/\/article\/a7e37b1f-5900-5e4a-97bf-7c5491e77430",
+      "type" : "Article",
+      "org_facet" : [
+
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008154607,
+      "asset_id" : 100000008154607,
+      "subsection" : "The Daily",
+      "geo_facet" : [
+
+      ],
+      "byline" : "By Annie Correal, Daniel Guillemette, Asthaa Chaturvedi, Mooj Zadie, Marc Georges, Lisa Chow, Marion Lozano and Dan Powell",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Coronavirus Omicron Variant",
+        "Disease Rates",
+        "Coronavirus (2019-nCoV)",
+        "Hospitals",
+        "audio-neutral-informative"
+      ],
+      "section" : "Podcasts"
+    },
+    {
+      "adx_keywords" : "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Vaccination and Immunization;Kluge, Hans;World Health Organization;Europe;Eastern Europe",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The agency cautioned against treating the virus like the seasonal flu, since much remains unknown, particularly regarding the severity in areas with lower vaccination rates.",
+      "title" : "Over Half of Europe Could Be Infected With Coronavirus Soon, W.H.O. Says",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/world\/europe\/who-europe-covid-omicron-infection.html",
+      "eta_id" : 0,
+      "nytdsection" : "world",
+      "media" : [
+
+      ],
+      "updated" : "2022-01-12 00:15:30",
+      "uri" : "nyt:\/\/article\/723ea9ee-1a4f-5ffe-b536-f0d6c9e8c768",
+      "type" : "Article",
+      "org_facet" : [
+        "World Health Organization"
+      ],
+      "per_facet" : [
+        "Kluge, Hans"
+      ],
+      "id" : 100000008154777,
+      "asset_id" : 100000008154777,
+      "subsection" : "Europe",
+      "geo_facet" : [
+        "Europe",
+        "Eastern Europe"
+      ],
+      "byline" : "By Marc Santora",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "Coronavirus Omicron Variant",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization"
+      ],
+      "section" : "World"
+    },
+    {
+      "adx_keywords" : "United States Politics and Government;Redistricting and Reapportionment;Elections, Courts and the Judiciary;Elections, State Legislature;Democratic Party;Republican Party;North Carolina",
+      "column" : null,
+      "source" : "New York Times",
+      "abstract" : "The ruling set up a final battle over the maps in the state Supreme Court, where Democrats hold a slim edge.",
+      "title" : "Republican Gerrymander of North Carolina Maps Is Upheld in Court",
+      "url" : "https:\/\/www.nytimes.com\/2022\/01\/11\/us\/politics\/north-carolina-redistricting.html",
+      "eta_id" : 0,
+      "nytdsection" : "u.s.",
+      "media" : [
+        {
+          "media-metadata" : [
+            {
+              "width" : 75,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11nc-maps-1\/11nc-maps-1-thumbStandard.jpg",
+              "height" : 75,
+              "format" : "Standard Thumbnail"
+            },
+            {
+              "width" : 210,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11nc-maps-1\/merlin_154025355_413848c1-36ae-4f3c-be59-e438048062c6-mediumThreeByTwo210.jpg",
+              "height" : 140,
+              "format" : "mediumThreeByTwo210"
+            },
+            {
+              "width" : 440,
+              "url" : "https:\/\/static01.nyt.com\/images\/2022\/01\/11\/us\/politics\/11nc-maps-1\/merlin_154025355_413848c1-36ae-4f3c-be59-e438048062c6-mediumThreeByTwo440.jpg",
+              "height" : 293,
+              "format" : "mediumThreeByTwo440"
+            }
+          ],
+          "copyright" : "Mandel Ngan\/ Agence France-Presse-- Getty Images",
+          "caption" : "In their ruling, the judges agreed that both the legislative and congressional maps were “a result of intentional, pro-Republican partisan redistricting.”",
+          "type" : "image",
+          "subtype" : "photo",
+          "approved_for_syndication" : 1
+        }
+      ],
+      "updated" : "2022-01-12 00:33:50",
+      "uri" : "nyt:\/\/article\/2dac8ff8-62a1-545f-afa9-d91304d1cd2d",
+      "type" : "Article",
+      "org_facet" : [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet" : [
+
+      ],
+      "id" : 100000008155749,
+      "asset_id" : 100000008155749,
+      "subsection" : "Politics",
+      "geo_facet" : [
+        "North Carolina"
+      ],
+      "byline" : "By Michael Wines",
+      "published_date" : "2022-01-11",
+      "des_facet" : [
+        "United States Politics and Government",
+        "Redistricting and Reapportionment",
+        "Elections, Courts and the Judiciary",
+        "Elections, State Legislature"
+      ],
+      "section" : "U.S."
+    }
+  ],
+  "copyright" : "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results" : 20
+}

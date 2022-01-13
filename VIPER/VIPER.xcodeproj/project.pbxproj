@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		184FECA02790CDDC00342606 /* CapitalOneData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CapitalOneData.json; sourceTree = "<group>"; };
 		18626554278F8861000B583C /* VIPER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VIPER.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18626557278F8861000B583C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18626559278F8861000B583C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				18626577278F8CA5000B583C /* SampleData.txt */,
+				184FECA02790CDDC00342606 /* CapitalOneData.json */,
 				1862656B278F88E2000B583C /* Delegates */,
 				18626576278F89C7000B583C /* VIPER */,
 				18626560278F8862000B583C /* Assets.xcassets */,
